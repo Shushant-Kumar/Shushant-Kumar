@@ -1,32 +1,26 @@
 <div align="center">
 
-<!-- Animated Header Banner  -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shushant%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Algo%20Trader&descAlignY=58&descSize=18)
-
 <!-- Animated Typing SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Aspiring+Backend+Engineer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%93%88+Algorithmic+Trading+Innovator;%F0%9F%8C%90+Building+the+Future+with+Code;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Systems)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Aspiring+Backend+Engineer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%93%88+Algorithmic+Trading+Innovator;%F0%9F%8C%90+Building+the+Future+with+Code;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- About Me Section — HTML table for side-by-side layout -->
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 👋 Hey there! I'm **Shushant Kumar**
-<table>
-<tr>
-<td valign="top" width="55%">
-
 
 ```python
 class ShushantKumar:
     def __init__(self):
-        self.name      = "Shushant Kumar"
-        self.role      = "Backend Engineer + ML Dev"
-        self.passion   = ["AI Systems", "Algo Trading",
-                          "Backend Architecture"]
-        self.currently = "Building Wonder Finance 💰"
-        self.mantra    = "Code is art. Logic is music. 🎵"
+        self.name       = "Shushant Kumar"
+        self.role       = "Backend Engineer + ML Dev"
+        self.passion    = ["AI Systems", "Algo Trading",
+                           "Backend Architecture"]
+        self.currently  = "Building Wonder Finance 💰"
+        self.mantra     = "Code is art. Logic is music. 🎵"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build together 🚀")
@@ -35,16 +29,12 @@ me = ShushantKumar()
 me.say_hi()
 ```
 
-</td>
-<td valign="top" align="center" width="45%">
-
-![Coding GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
+
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🔭 What I'm Building
 
@@ -67,7 +57,7 @@ me.say_hi()
 ![FastAPI](https://img.shields.io/badge/Advanced_FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF4B4B?style=flat-square&logo=blueprint&logoColor=white)
 ![ML with Python](https://img.shields.io/badge/ML_with_Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Real-Time Systems](https://img.shields.io/badge/Real--Time_Processing-00D9FF?style=flat-square&logo=apache-kafka&logoColor=white)
+![Real--Time Systems](https://img.shields.io/badge/Real--Time_Processing-00D9FF?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Git Automation](https://img.shields.io/badge/Git_Automation-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
@@ -129,15 +119,15 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shushant-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Shushant-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shushant-Kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-Kumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -146,9 +136,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shushant-Kumar&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shushant-Kumar&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Activity Graph" />
 </div>
 
 ---
@@ -156,19 +144,11 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake Dark](https://raw.githubusercontent.com/Shushant-Kumar/Shushant-Kumar/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shushant-Kumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shushant-Kumar/Shushant-Kumar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shushant-Kumar/Shushant-Kumar/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Shushant-Kumar/Shushant-Kumar/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -196,11 +176,11 @@ me.say_hi()
 ---
 
 <!-- Footer Wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shushant-Kumar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Shushant-Kumar&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
