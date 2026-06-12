@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shushant%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Algo%20Trader&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:8B5CF6&height=200&section=header&text=Shushant%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Algo%20Trader&descAlignY=58&descSize=18" />
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Aspiring+Backend+Engineer;🤖+AI+%26+Machine+Learning+Enthusiast;📈+Algorithmic+Trading+Innovator;🌐+Building+the+Future+with+Code;💡+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Aspiring+Backend+Engineer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%93%88+Algorithmic+Trading+Innovator;%F0%9F%8C%90+Building+the+Future+with+Code;%F0%9F%92%A1+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,6 @@ class ShushantKumar:
     def __init__(self):
         self.name       = "Shushant Kumar"
         self.role       = "Backend Engineer + ML Dev"
-        self.university = "UPES Dehradun — CSE"
         self.passion    = ["AI Systems", "Algo Trading",
                            "Backend Architecture"]
         self.currently  = "Building Wonder Finance 💰"
@@ -157,13 +156,13 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shushant-Kumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
 </div>
 
----
+--- -->
 
 ## 📫 Let's Connect
 
