@@ -10,7 +10,7 @@
 <!-- About Me Section -->
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### 👋 Hey there! I'm **Shushant Kumar**
+<!--### 👋 Hey there! I'm **Shushant Kumar**-->
 
 ```python
 class ShushantKumar:
